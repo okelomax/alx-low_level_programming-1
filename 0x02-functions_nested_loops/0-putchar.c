@@ -16,7 +16,10 @@ int main(void)
 	_putchar('o');
 	_putchar('n');
 	_putchar('\n');
+<<<<<<< HEAD
 
+=======
+>>>>>>> 65aaec11590309a1fac6577e0f362d56a55baf07
 	return (0);
 }
 
